@@ -1,5 +1,2 @@
-## Acai.sh
-
-Tools for spec-driven software development.
-
-https://acai.sh
+Docs and tutorials - https://acai.sh
+Log in to your dashboard - https://app.acai.sh
